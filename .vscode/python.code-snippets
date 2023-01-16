@@ -1,0 +1,19 @@
+{
+	
+	"Pedir numero": {
+		"scope": "python",
+		"prefix": "inputInt",
+		"body": [
+			"int(input(\"$1\"))"
+		],
+		"description": "inputInt"
+	},
+	"Pedir string": {
+		"scope": "python",
+		"prefix": "inputStr",
+		"body": [
+			"input(\"$1\")"
+		],
+		"description": "inputStr"
+	}
+}
